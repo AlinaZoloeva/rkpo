@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rkpo/static/css/main.6b767b52.css",
+    "main.js": "/rkpo/static/js/main.7695ac84.js",
+    "index.html": "/rkpo/index.html",
+    "main.6b767b52.css.map": "/rkpo/static/css/main.6b767b52.css.map",
+    "main.7695ac84.js.map": "/rkpo/static/js/main.7695ac84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b767b52.css",
+    "static/js/main.7695ac84.js"
+  ]
+}
