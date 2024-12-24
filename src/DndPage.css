@@ -1,0 +1,47 @@
+.dnd-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+}
+
+.dnd-column {
+  background-color: #f0f0f0;
+  padding: 10px;
+  width: 250px;
+  min-height: 600px;
+  border-radius: 8px;
+  margin: 0 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dnd-column h2 {
+  text-align: center;
+  color: #333;
+  font-family: 'Arial', sans-serif;
+}
+
+.dnd-item {
+  background-color: #456C86;
+  color: white;
+  padding: 16px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dnd-item button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.dnd-item button:hover {
+  background-color: darkred;
+}
